@@ -1,2 +1,2 @@
 # Technical-documentation
-📄 [Click here to view the Full Report (PDF)](./DAD%20MINI%20PROJECT%20REPORT.pdf)
+📄 [Click here to view the Full Report (PDF)](DAD MINI PROJECT REPORT.pdf)
